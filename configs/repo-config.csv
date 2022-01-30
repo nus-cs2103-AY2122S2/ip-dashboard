@@ -1,4 +1,5 @@
 Repository's Location,Branch,File Formats,Ignore Glob List,Ignore standalone config,Ignore Commits List,Ignore Authors List,Shallow Cloning,Find Previous Authors
+https://github.com/CS2103Lerulatus/ip.git,master,,tutorials/**,,,,,
 https://github.com/OhEyeSee/ip.git,master,,tutorials/**,,,,,
 https://github.com/dannytayjy/ip.git,master,,tutorials/**,,,,,
 https://github.com/zihaowrez/ip.git,master,,tutorials/**,,,,,
