@@ -1,7 +1,7 @@
 Repository's Location,Branch,Author's GitHub ID,Author's Emails,Author's Display Name,Author's Git Author Name,Ignore Glob List
 https://github.com/CS2103Lerulatus/ip.git,master,CS2103Lerulatus,e0021724@u.nus.edu,CS2103-W17-3 ZHAN..HENG,,
 https://github.com/OhEyeSee/ip.git,master,OhEyeSee,e0031848@u.nus.edu,CS2103-F11-3 KONG.. YIN,,
-https://github.com/dannytayjy/ip.git,master,dannytayjy,e0191340@u.nus.edu,CS2103-F11-1 TAY ..YANG,,
+https://github.com/dannytayjy/ip.git,master,dannytayjy,e0191340@u.nus.edu,CS2103-F11-1 TAY ..YANG,Tay Jun Yang,
 https://github.com/zihaowrez/ip.git,master,zihaowrez,e0261887@u.nus.edu,CS2103-W16-2 WU Z..IHAO,Zihao,
 https://github.com/Geralddtan/ip.git,master,Geralddtan,e0273903@u.nus.edu,CS2103-F09-4 GERA.. WEI,Gerald Tan,
 https://github.com/waffledood/ip.git,master,waffledood,e0309241@u.nus.edu,CS2103-W16-4 MOHA..USUF,Haikal Yusuf,
@@ -273,7 +273,7 @@ https://github.com/joszx/ip.git,master,joszx,e0659847@u.nus.edu,CS2103T-T11-3 SE
 https://github.com/pyk595/ip.git,master,pyk595,e0660595@u.nus.edu,CS2103T-T17-3 PANG.. KER,Pang Yuan Ker;pangyuanker,
 https://github.com/Graphcalibur/ip.git,master,Graphcalibur,e0661389@u.nus.edu,CS2103T-W14-3 STEV..CHUA,Steven Chua,
 https://github.com/viki0526/ip.git,master,viki0526,e0661436@u.nus.edu,CS2103T-W11-1 PRAK..RANT,Vikrant Prakash,
-https://github.com/prgJ/ip.git,master,prgJ,e0661441@u.nus.edu,CS2103T-W14-2 PRAG.. JHA,,
+https://github.com/prgJ/ip.git,master,prgJ,e0661441@u.nus.edu,CS2103T-W14-2 PRAG.. JHA,Pragya,
 https://github.com/aditi2313/ip.git,master,aditi2313,e0665491@u.nus.edu,CS2103T-W14-1 GUPT..DITI,,
 https://github.com/Gernene/ip.git,master,Gernene,e0665988@u.nus.edu,CS2103T-T13-2 GERN.. TAN,,
 https://github.com/brian16600/ip.git,master,brian16600,e0688549@u.nus.edu,CS2103T-T12-4 BRIA..XUAN,,
